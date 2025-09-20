@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "formulahendry.code-runner",
+        "oracle.oracle-java",
+        "vscode-icons-team.vscode-icons"
+    ],
+    "unwantedRecommendations": ["vscjava.vscode-java-pack"]
+}
